@@ -733,7 +733,7 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
 
 #call-to-action {
     padding: 70px 0px;
-    background: url(../images/call-to-action.jpg);
+    background: url(../images/elastiband/call-to-action.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -747,6 +747,7 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
   font-weight: 400;
   line-height: 1.5;
   text-transform: uppercase;
+  color: #4E6161;
 }
 #call-to-action .block p {
     font-size: 15px;
